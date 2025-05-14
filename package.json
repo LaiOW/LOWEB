@@ -1,0 +1,15 @@
+{
+  "name": "lai-onn-wang",
+  "version": "1.0.0",
+  "description": "A website project for Lai Onn Wang.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Lai Onn Wang",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
